@@ -2,7 +2,7 @@
 
 #Array
 - [15.3Sum](https://leetcode.com/submissions/detail/1770089715/)
-- [16.3Sum Closet](https://leetcode.com/submissions/detail/1770094379/)
+- [16.3Sum Closest](https://leetcode.com/submissions/detail/1770094379/)
 - [169.Majority Element](https://leetcode.com/submissions/detail/1770095671/)
 - [2210.Count Hills and valleys in an Array](https://leetcode.com/submissions/detail/1770097028/)
 - [283.Move Zeroes](https://leetcode.com/submissions/detail/1770110484/)
@@ -33,4 +33,4 @@
 -[1004.Maximum Consecutive Ones III](https://leetcode.com/submissions/detail/1770067954/)
 -[209.Minimum Size Subarray](https://leetcode.com/submissions/detail/1770030655/)
 -[3.Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/1770093716/)
--[904.Fruit in basket](https://leetcode.com/submissions/detail/1770536277/)
+-[904.Fruit in baskets](https://leetcode.com/submissions/detail/1770536277/)
