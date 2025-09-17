@@ -18,7 +18,7 @@
 #HashMaps
 - [299.Bulls and Cows](https://leetcode.com/submissions/detail/1770111906/)
 - [229.Majority Element-II](https://leetcode.com/submissions/detail/1770108743/)
-
+- [49.Group Anagrams](https://leetcode.com/submissions/detail/1773720258/)
 
 #String
 -[657.Robot Returns to Origin](https://leetcode.com/submissions/detail/1770516597/)
@@ -34,3 +34,4 @@
 -[209.Minimum Size Subarray](https://leetcode.com/submissions/detail/1770030655/)
 -[3.Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/1770093716/)
 -[904.Fruit in baskets](https://leetcode.com/submissions/detail/1770536277/)
+-[1052.Grumpy Bookstore Owner](https://leetcode.com/submissions/detail/1773690147/)
