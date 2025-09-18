@@ -30,6 +30,7 @@
 - [704.Binary Search](https://leetcode.com/submissions/detail/1774872573/)
 - [35.Search Insert Position](https://leetcode.com/submissions/detail/1774897898/)
 - [34.First and Last Position of element in sorted array](https://leetcode.com/submissions/detail/1774909661/)
+- [33.Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/1774916838/)
 
 
 #Sliding Window
