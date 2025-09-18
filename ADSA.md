@@ -27,6 +27,9 @@
 
 #Binary Search
 - [441.Arranging Coins](https://leetcode.com/submissions/detail/1770113277/)
+- [704.Binary Search](https://leetcode.com/submissions/detail/1774872573/)
+- [35.Search Insert Position](https://leetcode.com/submissions/detail/1774897898/)
+- [34.First and Last Position of element in sorted array](https://leetcode.com/submissions/detail/1774909661/)
 
 
 #Sliding Window
