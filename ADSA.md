@@ -33,6 +33,7 @@
 - [33.Search in Rotated Sorted Array](https://leetcode.com/submissions/detail/1774916838/)
 - [81.Search in Rotated Sorted Array-II](https://leetcode.com/submissions/detail/1777629371/)
 - [153.Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1777640907/)
+- [540.Single Element in Sorted Array](https://leetcode.com/submissions/detail/1777689288/)
 
 
 #Sliding Window
