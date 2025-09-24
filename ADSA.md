@@ -34,7 +34,10 @@
 - [81.Search in Rotated Sorted Array-II](https://leetcode.com/submissions/detail/1777629371/)
 - [153.Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1777640907/)
 - [540.Single Element in Sorted Array](https://leetcode.com/submissions/detail/1777689288/)
-
+- 
+- [875.Koko Eating Banana](https://leetcode.com/submissions/detail/1781103129/)
+- [74. Search a 2D Matrix](https://leetcode.com/submissions/detail/1781115179/)
+- [1011. Capacity to ship packages within D days](https://leetcode.com/submissions/detail/1781115405/)
 
 #Sliding Window
 - [643.Maximum Average Subarray I](https://leetcode.com/submissions/detail/1770115655/)
