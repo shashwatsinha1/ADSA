@@ -45,3 +45,10 @@
 - [3.Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/1770093716/)
 - [904.Fruit in baskets](https://leetcode.com/submissions/detail/1770536277/)
 - [1052.Grumpy Bookstore Owner](https://leetcode.com/submissions/detail/1773690147/)
+
+  ## LinkedList
+- [206.Reverse Linked List](https://leetcode.com/submissions/detail/1782246272/)
+- [876.Middle of the Linked List](https://leetcode.com/submissions/detail/1782212274/)
+- [237.Delete Node in a Linked List](https://leetcode.com/submissions/detail/1782212558/)
+- [328.Odd Even Linked List](https://leetcode.com/submissions/detail/1782226824/)
+- [19.Remove Nth Node From End of List](https://leetcode.com/submissions/detail/1782239584/)
