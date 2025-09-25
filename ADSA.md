@@ -1,6 +1,6 @@
-#ADSA
+# ADSA
 
-#Array
+## Array
 - [15.3Sum](https://leetcode.com/submissions/detail/1770089715/)
 - [16.3Sum Closest](https://leetcode.com/submissions/detail/1770094379/)
 - [169.Majority Element](https://leetcode.com/submissions/detail/1770095671/)
@@ -15,17 +15,17 @@
 - [80.Remove Duplicates From Sorted Array II](https://leetcode.com/submissions/detail/1770531340/)
 - [53.Maximum Subarray](https://leetcode.com/submissions/detail/1770534504/)
 
-#HashMaps
+## HashMaps
 - [299.Bulls and Cows](https://leetcode.com/submissions/detail/1770111906/)
 - [229.Majority Element-II](https://leetcode.com/submissions/detail/1770108743/)
 - [49.Group Anagrams](https://leetcode.com/submissions/detail/1773720258/)
 - [451.Sort Characters By Frequency](https://leetcode.com/submissions/detail/1773744513/)
 
-#String
+## String
 - [657.Robot Returns to Origin](https://leetcode.com/submissions/detail/1770516597/)
 
 
-#Binary Search
+## Binary Search
 - [441.Arranging Coins](https://leetcode.com/submissions/detail/1770113277/)
 - [704.Binary Search](https://leetcode.com/submissions/detail/1774872573/)
 - [35.Search Insert Position](https://leetcode.com/submissions/detail/1774897898/)
@@ -38,7 +38,7 @@
 - [74. Search a 2D Matrix](https://leetcode.com/submissions/detail/1781115179/)
 - [1011. Capacity to ship packages within D days](https://leetcode.com/submissions/detail/1781115405/)
 
-#Sliding Window
+## Sliding Window
 - [643.Maximum Average Subarray I](https://leetcode.com/submissions/detail/1770115655/)
 - [1004.Maximum Consecutive Ones III](https://leetcode.com/submissions/detail/1770067954/)
 - [209.Minimum Size Subarray](https://leetcode.com/submissions/detail/1770030655/)
