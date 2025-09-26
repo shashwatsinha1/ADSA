@@ -46,7 +46,7 @@
 - [904.Fruit in baskets](https://leetcode.com/submissions/detail/1770536277/)
 - [1052.Grumpy Bookstore Owner](https://leetcode.com/submissions/detail/1773690147/)
 
-  ## LinkedList
+## LinkedList
 - [206.Reverse Linked List](https://leetcode.com/submissions/detail/1782246272/)
 - [876.Middle of the Linked List](https://leetcode.com/submissions/detail/1782212274/)
 - [237.Delete Node in a Linked List](https://leetcode.com/submissions/detail/1782212558/)
