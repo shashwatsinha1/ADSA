@@ -52,3 +52,7 @@
 - [237.Delete Node in a Linked List](https://leetcode.com/submissions/detail/1782212558/)
 - [328.Odd Even Linked List](https://leetcode.com/submissions/detail/1782226824/)
 - [19.Remove Nth Node From End of List](https://leetcode.com/submissions/detail/1782239584/)
+- [234.Palindrome Linked List](https://leetcode.com/submissions/detail/1784785581/)
+- [141.LinkedList Cycle](https://leetcode.com/submissions/detail/1784871132/)
+- [160.Intersection of Two Linked Lists](https://leetcode.com/submissions/detail/1784888513/)
+- [2.Add Two Numbers](https://leetcode.com/submissions/detail/1784924914/)
