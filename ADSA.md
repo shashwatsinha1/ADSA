@@ -56,3 +56,6 @@
 - [141.LinkedList Cycle](https://leetcode.com/submissions/detail/1784871132/)
 - [160.Intersection of Two Linked Lists](https://leetcode.com/submissions/detail/1784888513/)
 - [2.Add Two Numbers](https://leetcode.com/submissions/detail/1784924914/)
+
+## Stacks
+- [20.Valid Parentheses](https://leetcode.com/submissions/detail/1791760665/)
