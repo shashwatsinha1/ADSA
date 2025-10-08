@@ -59,4 +59,5 @@
 
 ## Stacks
 - [20.Valid Parentheses](https://leetcode.com/submissions/detail/1791760665/)
-- [155. Min Stack](https://leetcode.com/submissions/detail/1791777995/)
+- [155.Min Stack](https://leetcode.com/submissions/detail/1791777995/)
+- [496.Next Greater Element I](https://leetcode.com/submissions/detail/1795120100/)
