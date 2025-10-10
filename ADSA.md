@@ -64,3 +64,5 @@
 - [84.Larget Rectangle in Histogram](https://leetcode.com/submissions/detail/1795164437/)
 - [735.Asteroid Collision](https://leetcode.com/submissions/detail/1796246133/)
 - [42.Trapping Rain Water](https://leetcode.com/submissions/detail/1796284177/)
+- [907.Sum of Subarray Minimums](https://leetcode.com/submissions/detail/1797016652/)
+- [2104.Sum of Subarray Ranges](https://leetcode.com/submissions/detail/1797018046/)
