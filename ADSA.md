@@ -62,3 +62,5 @@
 - [155.Min Stack](https://leetcode.com/submissions/detail/1791777995/)
 - [496.Next Greater Element I](https://leetcode.com/submissions/detail/1795120100/)
 - [84.Larget Rectangle in Histogram](https://leetcode.com/submissions/detail/1795164437/)
+- [735.Asteroid Collision](https://leetcode.com/submissions/detail/1796246133/)
+- [42.Trapping Rain Water](https://leetcode.com/submissions/detail/1796284177/)
