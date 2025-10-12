@@ -66,3 +66,7 @@
 - [42.Trapping Rain Water](https://leetcode.com/submissions/detail/1796284177/)
 - [907.Sum of Subarray Minimums](https://leetcode.com/submissions/detail/1797016652/)
 - [2104.Sum of Subarray Ranges](https://leetcode.com/submissions/detail/1797018046/)
+
+## Binary Tree
+- [144.Binary Tree Preorder Traversal](https://leetcode.com/submissions/detail/1798910877/)
+- [102.Binary Tree Level Order Traversal](https://leetcode.com/submissions/detail/1798953730/)
